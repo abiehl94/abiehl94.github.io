@@ -81,6 +81,11 @@ blueRectangle {
     //width: 100%;
 }
 
+#box {
+  fill: orange;
+  stroke: black;
+}
+
 body {
   margin: 0;
   font-family: var(--bs-body-font-family);
