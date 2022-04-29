@@ -75,6 +75,12 @@
   }
 }
 
+blueRectangle {
+    background: #4679BD;
+    min-height: 50px;
+    //width: 100%;
+}
+
 body {
   margin: 0;
   font-family: var(--bs-body-font-family);
