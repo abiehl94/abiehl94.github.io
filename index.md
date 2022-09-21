@@ -3,7 +3,7 @@
 ![20210901_ISchoolPortraits_bhs_107 (1) copy](https://user-images.githubusercontent.com/90428224/191391646-1d212627-4884-4e0c-b476-f2c34a631cee.jpg)
 
 ## Education
-UC Berkeley | Masters of Information Management and Systems
+UC Berkeley | Masters of Information Management and Systems <br>
 Whitman College | Bachelor of Arts, Psychology | Magna Cum Laude
 
 ## About Me
