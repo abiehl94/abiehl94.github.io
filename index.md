@@ -1,7 +1,5 @@
 # Austin Biehl
 
-![image]([https://drive.google.com/file/d/1W8x9wNrATp_ajdCr49qB8q95UmHYe3YL/view?usp=sharing])
-
 ![20210901_ISchoolPortraits_bhs_107](https://user-images.githubusercontent.com/90428224/191388842-dd7c6203-9a44-4412-8cfd-22bcbb83ea66.jpg)
 
 
