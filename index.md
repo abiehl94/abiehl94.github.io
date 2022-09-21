@@ -2,7 +2,7 @@
 
 ![20210901_ISchoolPortraits_bhs_107](https://user-images.githubusercontent.com/90428224/191388842-dd7c6203-9a44-4412-8cfd-22bcbb83ea66.jpg | width = 100)
 
-<img src="[https://your-image-url.type](https://user-images.githubusercontent.com/90428224/191388842-dd7c6203-9a44-4412-8cfd-22bcbb83ea66.jpg)" width="100", height="200">
+<img src="https://user-images.githubusercontent.com/90428224/191388842-dd7c6203-9a44-4412-8cfd-22bcbb83ea66.jpg" width="699", height="1000">
 
 ## Education
 ### UC Berkeley | Masters of Information Management and Systems
