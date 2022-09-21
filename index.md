@@ -1,5 +1,7 @@
 # Austin Biehl
 
+![20210901_ISchoolPortraits_bhs_107 copy](https://user-images.githubusercontent.com/90428224/191391163-24bf0ce9-070b-4e9c-a292-98f47e03928b.jpg)
+
 ## Education
 ### UC Berkeley | Masters of Information Management and Systems
 ### Whitman College | Bachelor of Arts, Psychology | Magna Cum Laude
@@ -15,4 +17,4 @@ Additionally, I study the ways that information systems magnify
 unconscious bias, particularly in relation to recruiting systems and 
 processes.
 
-![20210901_ISchoolPortraits_bhs_107 copy](https://user-images.githubusercontent.com/90428224/191390657-e4ee9e8b-0de3-4d8f-8a4f-75fa16578d61.jpg)
+
