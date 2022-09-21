@@ -1,10 +1,10 @@
 # Austin Biehl
 
-![20210901_ISchoolPortraits_bhs_107 copy](https://user-images.githubusercontent.com/90428224/191391163-24bf0ce9-070b-4e9c-a292-98f47e03928b.jpg)
+![20210901_ISchoolPortraits_bhs_107 (1) copy](https://user-images.githubusercontent.com/90428224/191391646-1d212627-4884-4e0c-b476-f2c34a631cee.jpg)
 
 ## Education
-### UC Berkeley | Masters of Information Management and Systems
-### Whitman College | Bachelor of Arts, Psychology | Magna Cum Laude
+UC Berkeley | Masters of Information Management and Systems
+Whitman College | Bachelor of Arts, Psychology | Magna Cum Laude
 
 ## About Me
 Originally from the Seattle area, I received my 
